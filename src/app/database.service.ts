@@ -6,8 +6,6 @@ import {Storage} from '@ionic/storage'
 import { SQLitePorter } from '@ionic-native/sqlite-porter/ngx';
 import { Platform } from '@ionic/angular';
 import 'rxjs/add/operator/map';
-import { map } from "rxjs/operators";
-import { Observable, Subject } from 'rxjs';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
 

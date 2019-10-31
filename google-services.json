@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733797340390",
+    "firebase_url": "https://jandre-17a91.firebaseio.com",
+    "project_id": "jandre-17a91",
+    "storage_bucket": "jandre-17a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733797340390:android:7717605e30fc7c24",
+        "android_client_info": {
+          "package_name": "com.Shieldpoint.ERPRangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733797340390-69flk0q3n4el3vjoq9jkal1mcg1aik6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKG3BobWvJwmjHqx415YiW6r_VKxow5EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733797340390-69flk0q3n4el3vjoq9jkal1mcg1aik6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733797340390-q88abmkbt087mj2508lodl5qthqd26p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Shieldpoint.ERPRangers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
